@@ -9,6 +9,12 @@
 - Create BrowserRouter > Routes > Route=/Body > RouteChildren
 - Create an outlet in your body component
 - Create a Footer
+- Create a Login Page
+- Install axios
+- Install cors in backend ==> add middleware to with configurations:     origin, credentials=true
+- Whenever you're making API call so pass axios => {withCredentials: true}
+- install react-redux + @reduxjs/toolkit
+-  ==> configureStore => Provider ==> createSlice ==> add reducer to store
 
 
 
